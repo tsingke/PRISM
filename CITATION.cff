@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code or refer to this work, please cite it using the metadata below. The manuscript is currently under review; the citation record will be updated with the venue and the final author list upon acceptance."
+title: "PRISM: A Priority-Rank Integrated Search Mechanism for Single-Objective Black-Box Optimization"
+type: software
+license: MIT
+repository-code: "https://github.com/tsingke/PRISM"
+keywords:
+  - black-box optimization
+  - evolutionary computation
+  - differential evolution
+  - rank-driven search
+  - adaptive search allocation
+  - UAV path planning
+  - multilevel thresholding image segmentation
+authors:
+  - family-names: Zhang
+    given-names: Qingke
+    orcid: "https://orcid.org/0000-0003-3960-172X"
+    email: tsingke@sdnu.edu.cn
+    affiliation: "School of Computer Science and Artificial Intelligence, Shandong Normal University, Jinan 250358, China"
