@@ -17,7 +17,6 @@
 | | |
 |:--|:--|
 | **Manuscript** | PRISM: A Priority-Rank Integrated Search Mechanism for Single-Objective Black-Box Optimization |
-| **Author** | **Qingke Zhang**\* |
 | **Affiliation** | School of Computer Science and Artificial Intelligence, Shandong Normal University, Jinan 250358, China |
 | **Corresponding author** | Prof. Qingke Zhang — [tsingke@sdnu.edu.cn](mailto:tsingke@sdnu.edu.cn) |
 | **Status** | Under review — journal name withheld |
